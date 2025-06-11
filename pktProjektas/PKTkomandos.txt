@@ -1,0 +1,3 @@
+cd Frukt\bin\Debug\net7.0
+
+start cmd /k ".\Frukt.exe .\sample.frkt"
