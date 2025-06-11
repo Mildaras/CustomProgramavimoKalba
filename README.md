@@ -55,8 +55,6 @@ If(-3 < n && n < 5)
 - **ANTLR4** – lengvas lexer ir parser scriptų generavimas.
 - **Programavimo kalba** – C#.
 
-## Gramatika (ANTLR4)
-[Spustelėkite, norėdami matyti gramatiką](./grammar/Frukt.g4)
 
 ## Kompiliavimas ir paleidimas
 
