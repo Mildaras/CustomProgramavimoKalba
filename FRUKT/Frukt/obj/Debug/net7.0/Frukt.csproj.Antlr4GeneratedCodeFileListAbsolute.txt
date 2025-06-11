@@ -1,0 +1,6 @@
+C:\Users\milda\OneDrive\Stalinis kompiuteris\pktProjektas\projektas2023\Frukt\obj\Debug\net7.0\FruktLexer.cs
+C:\Users\milda\OneDrive\Stalinis kompiuteris\pktProjektas\projektas2023\Frukt\obj\Debug\net7.0\FruktParser.cs
+C:\Users\milda\OneDrive\Stalinis kompiuteris\pktProjektas\projektas2023\Frukt\obj\Debug\net7.0\FruktListener.cs
+C:\Users\milda\OneDrive\Stalinis kompiuteris\pktProjektas\projektas2023\Frukt\obj\Debug\net7.0\FruktBaseListener.cs
+C:\Users\milda\OneDrive\Stalinis kompiuteris\pktProjektas\projektas2023\Frukt\obj\Debug\net7.0\FruktVisitor.cs
+C:\Users\milda\OneDrive\Stalinis kompiuteris\pktProjektas\projektas2023\Frukt\obj\Debug\net7.0\FruktBaseVisitor.cs

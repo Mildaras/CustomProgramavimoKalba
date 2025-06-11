@@ -1,0 +1,63 @@
+PrintTo("output.txt", "Printinu", "i faila").
+Fibonacci(limit, number1, number2, i)
+{  
+
+    if i >= limit
+    {
+        Print(number1 + number2).
+        PrintTo("fibonacci.txt", "done", number1 + number2).
+    }
+    else
+    {
+        number12 = number1 + number2.
+        Print(number12).
+        PrintTo("fibonacci.txt", number12).
+        number1 = number2.
+        number2 = number12.
+
+        Fibonacci(limit, number1, number2, i + 1).    
+    }
+}
+
+Fibonacci(20, 1, 1, 1).
+
+Print("Sveikas, apelsine!").
+
+b = "Bananas".
+numbers = [1, "Obuolys", b, 4, 0].
+
+i = 0.
+Print("Array testas!").
+while i <= 3
+{
+    Print(numbers[i]).
+    i = i + 1.
+}
+
+if 10 <= 30,2 <= 20 
+{
+    Print("if").
+}
+else 3 > 1
+{
+    Print("else if").
+}
+else 
+{
+    Print("else").
+}
+
+i = 0.
+Print("While testas!").
+while i < 10
+{
+    Print(i).
+    i = i + 1.
+}
+
+boolkint = true.
+doublekint = 1,4233.
+integerkint = 1.
+stringkint = "Sveikas, apelsine!".
+arraykint = [1, 2, "Bananas", integerkint, boolkint].
+Print(arraykint[4]).
